@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/github/license/ennanco/MIA_ML1?style=flat-square)
 ![Julia](https://img.shields.io/badge/Julia-1.9.2-blueviolet?logo=Julia)
-![Banner](img/MAAA1.png)
+![Banner](img/MAAAI.png)
 
 ## Introduction
 
