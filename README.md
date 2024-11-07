@@ -33,11 +33,11 @@ To get started with the resources in this repository, follow these steps:
 
 1. Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/ennanco/MIA_ML1.git
+   git clone https://github.com/ennanco/GIA_MAAA1.git
    ```
 2. Navigate to the project directory
     ```bash
-    cd MIA_MAAAI
+    cd GIA_MAAAI
     ```
 3. Ensure you have Julia installed. If not, download it from [Julia's official website](https://julialang.org/)
 4. Execute the examples in the notebooks within a Jupyter notebook environment.
